@@ -1,0 +1,16 @@
+Team 3:
+
+Alejandro: 
+	Car (Pick-up truck), GitHub curating, Basic Board, Car size uniformity, Problem engineering, Mesa
+Moisés: 
+	Roads, lights, stoplights, Car (Cybertruck)
+Josué: 
+	Asset fetching, asset curating, map, Car (Racing)
+Andrew: 
+	Buildings, Asset fetching, Car(Garbage truck)
+
+Link of assets that we use:
+https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+https://assetstore.unity.com/packages/3d/environments/urban/city-traffic-lights-pack-free-low-poly-3d-art-154053
+https://assetstore.unity.com/packages/3d/props/exterior/low-poly-houses-free-pack-243926
+https://assetstore.unity.com/packages/3d/props/greek-statue-190814
